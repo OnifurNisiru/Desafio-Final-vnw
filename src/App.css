@@ -1,0 +1,22 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+  list-style: none;
+  
+
+}
+
+
+
+ul{
+  background-color:#111212;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 5vh;
+}
+
